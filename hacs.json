@@ -1,0 +1,10 @@
+{
+    "name": "Holiday API",
+    "domains": [
+        "input_number",
+        "sensor",
+        "switch"
+    ],
+    "iot_class": "Local Polling",
+    "homeassistant": "0.115.0"
+}
