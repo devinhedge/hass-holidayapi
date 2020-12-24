@@ -3,7 +3,7 @@
 
 # hass-holidayapi
 
-_Home Assistant Component to integrate with [HolidayAPI][https://holidayapi.com/]._
+_Home Assistant Component to integrate with [HolidayAPI](https://holidayapi.com/).
 
 Easiest way to install this component is through [HACS][hacs].
 
