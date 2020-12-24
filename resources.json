@@ -1,0 +1,7 @@
+[
+  "https://raw.githubusercontent.com/devinhedge/hass-holidayapi/master/custom_components/holidayapi/__init__.py",
+  "https://raw.githubusercontent.com/devinhedge/hass-holidayapi/master/custom_components/holidayapi/const.py",
+  "https://raw.githubusercontent.com/devinhedge/hass-holidayapi/master/custom_components/holidayapi/binary_sensor.py",
+  "https://raw.githubusercontent.com/devinhedge/hass-holidayapi/master/custom_components/holidayapi/sensor.py",
+  "https://raw.githubusercontent.com/devinhedge/hass-holidayapi/master/custom_components/holidayapi/switch.py"
+]
